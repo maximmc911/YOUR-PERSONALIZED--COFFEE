@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;  /* это превратит значение 16px*0.625=10px */
+}
+
+body{
+    font-size: 1.6rem; /*вернет значение к 16px для браузеров */
+}
